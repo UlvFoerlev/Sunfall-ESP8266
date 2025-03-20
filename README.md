@@ -9,7 +9,8 @@ https://www.youtube.com/watch?v=YN522_npNqs
 
 Sample code in projects/video_sameple_code/test.ino
 
-## USB Port permission issues:
+## Known Issues
+### USB Port permission issues:
 To solve this i used this guide:
 https://docs.arduino.cc/software/ide-v1/tutorials/Linux/
 Plus this guide:
