@@ -10,9 +10,12 @@ https://www.youtube.com/watch?v=YN522_npNqs
 Sample code in projects/video_sameple_code/test.ino
 
 ## Known Issues
+Section of issues we have encountered and how to fix them.
+
 ### USB Port permission issues:
 To solve this i used this guide:
 https://docs.arduino.cc/software/ide-v1/tutorials/Linux/
-Plus this guide:
+
+In conjunction with this topic answer:
 https://forums.raspberrypi.com/viewtopic.php?t=346338
 
